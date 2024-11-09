@@ -9,4 +9,4 @@ authors: "Advisor: Shuguang Li, Department of Mechanical Engineering, Tsinghua U
 venue: "06/2023 - present"
 
 ---
-We show how to perform efficient black-box optimization of algorithm configuration from user preferences. Results include Intel RealSense stereo cameras and a robot social navigation policy.
+I developed an inflatable airbag utilizing thermoplastic polyurethane (TPU) films and integrated bellows on its upper surface. This design serves as an effective force transmission device, simplifying the construction of rigid structures. Using this technology, we created a multi-legged soft crawling robot that demonstrated adaptability in various environments.
